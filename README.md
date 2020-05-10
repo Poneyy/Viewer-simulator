@@ -1,2 +1,4 @@
 # Viewer-simulator
-deeplearning from twitch bhat
+deeplearning from twitch chat
+
+Using Keras and tensorflow
